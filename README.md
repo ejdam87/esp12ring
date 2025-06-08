@@ -11,6 +11,7 @@ The project should serve as a simple light decoration. Individual programs (anim
 - ESP12 MCU Chip (NODE MCU ESP12-E v3.0 CH340G)
 - LED Ring (WS2812 5050)
 - Analog Joystick
+- Power Supply (for instance powerbank)
 - F-F Jumper Wires
 - M-F Jumper Wires
 
